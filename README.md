@@ -23,6 +23,10 @@ A SystemVerilog testbench is used to:
 - Validate output results
 - Generate waveform using VCD file
 
+- ## Waveform
+
+![Waveform](waveform.png)
+
 ## Tools Used
 - Verilog
 - SystemVerilog
