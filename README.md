@@ -31,11 +31,13 @@ A SystemVerilog testbench is used to:
 
 ## Simulation Output
 
+```
 ADD: 15
 SUB: 5
 AND: 0
 OR: 15
 XOR: 15
+```
 
 
 ## Skills Demonstrated
